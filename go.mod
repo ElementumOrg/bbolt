@@ -1,4 +1,4 @@
-module go.etcd.io/bbolt
+module github.com/ElementumOrg/bbolt
 
 go 1.21
 
